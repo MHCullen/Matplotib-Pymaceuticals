@@ -1,1 +1,1 @@
-# Matplotib-Pymaceuticals
+# Matplotlib-Pymaceuticals
